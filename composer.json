@@ -1,5 +1,5 @@
 {
-    "name": "restphp/restphp",
+    "name": "restphp/framework",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -18,5 +18,5 @@
         "files": [
             "src/functions.php"
         ]
-    },
+    }
 }
